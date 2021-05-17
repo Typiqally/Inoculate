@@ -1,0 +1,10 @@
+name: Inoculate
+version: 1.0.0
+description: Inoculation plugin.
+author: Typically
+main: inoculate.InoculatePlugin
+
+commands:
+  inoculate:
+    description: Inoculate main command.
+    usage: /<command>
